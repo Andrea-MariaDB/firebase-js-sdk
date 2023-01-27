@@ -146,7 +146,7 @@
     "protractor": "5.4.2",
     "rxjs": "6.6.3",
     "semver": "7.3.4",
-    "simple-git": "2.31.0",
+    "simple-git": "3.16.0",
     "sinon": "9.2.2",
     "sinon-chai": "3.5.0",
     "source-map-loader": "1.1.3",
